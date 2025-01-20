@@ -6,14 +6,14 @@ The **Smart Food Waste Management System** is a platform designed to minimize fo
 ## **Workflow Diagram**
 ![Workflow Diagram](Workflow.png)
 ## **Concept map**
-1. Donor Interface: A form for donors to submit food details like type, quantity, and location.
-2. Recipient Interface: A form for recipients to specify their requirements.
-3. Backend:
+   Donor Interface: A form for donors to submit food details like type, quantity, and location.
+   Recipient Interface: A form for recipients to specify their requirements.
+   Backend:
        Handles data submission and storage.
        Implements the matching algorithm.(Decision Tree and Random Forest)
        Implements the future prediction algorithm.(ANN and Random Forest)
        Generates match results.
-4. Frontend:Displays match results to users.
+   Frontend:Displays match results to users.
    
 ## **Tech Stack**
 ### **Frontend**
