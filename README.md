@@ -10,6 +10,7 @@ graph LR;
     B --> D[Matching algorithm processes the data]
     D --> E[Match results displayed]
     E --> F[Food transfer coordinated]
+---
 ## **Concept Map**
 ```mermaid
 graph LR;
