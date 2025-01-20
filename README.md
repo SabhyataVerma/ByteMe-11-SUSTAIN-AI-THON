@@ -6,6 +6,7 @@ The **Smart Food Waste Management System** is a platform designed to minimize fo
 ## **Workflow Diagram**
 ![Workflow Diagram](Workflow.png)
 ## **Concept map**
+'''mermaid
 graph LR;
     A[Donor Interface] --> B[Backend]
     B --> C[Recipient Interface]
@@ -13,3 +14,4 @@ graph LR;
     D --> E[Notifications]
     E --> F[Results Display]
     F --> G[Real-time updates]
+    
